@@ -12,7 +12,7 @@ As an IT hobbyist, I don't believe that computers as they exist today should be 
 When those devices were created back in the days, they were only accessible to a few people which knew well the tools they were using.
 But now, most computers users don't even know the major principles of computing.
 Some of them see it as a unknown tool forced unto them, others only grab a little bit of it.
-It then creates issues like viruses that spread like wildfires.
+It then creates issues like viruses that spread like wildfire.
 Such issues mostly exist because the majority of modern computers' users don't understand what a virus is, what it does, how it spreads?
 
 I believe that specific tools, using IT technologies, should be available to the wider public such as productivity machines that only do productivity tasks.
