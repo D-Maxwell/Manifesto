@@ -103,7 +103,8 @@ Designing an operating system around specific software, if done right, is a good
 
 Most software should benefit from being open-source.
 It allows the community around it to propose bug and security fixes, new features through pull requests and it creates the ability to check for unwanted chances.
-Red Hat is a great example of monetizing free and open-source software without 
+Red Hat is a great example of monetizing free and open-source software while supporting the community around it and the projects used.
+Such entreprise support helps the free and open-source world to develop much faster and to be more secure.
 Nonetheless, in some cases, free and open-source software is the solution, and as long as the developer or the company maintaining the project stays very transparent about what is going on, it should be fine.
 
 ### B. Usability
